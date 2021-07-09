@@ -7,7 +7,7 @@ Video Transcription is a free and easy tool used to transcribe and index MP4 & Y
 Have you ever watched an hour long video only to find out that this video didn't have what you are looking for? If yes, then this tool is definitely for you. It will let you search any word you are looking for so you can decide whether this video is of use or not. Don't waste your precious time and start using Video Transcription!
 
 # How to use:
-Clone the repo, then go into the directory of 'client' and 'server' and then type 'npm install' in both of them, and at last 'npm start'. Don't forget to enter the link of your MongoDB collection and your Google Cloud Platform credentials in the 'GCP-Credentials' file.
+Clone the repo, then go into the directory of 'client' and 'server' and then type 'npm install' in both of them, and at last 'npm start'. Don't forget to enter the link of your MongoDB collection in the 'env' file and your Google Cloud Platform credentials in the 'GCP-Credentials' file.
 
 
 
