@@ -12,12 +12,12 @@ Clone the repo, then go into the directory of 'client' and 'server' and then typ
 
 
 
-![Screenshot](https://github.com/danielashrafk/video-transcription/blob/main/client/src/images/video5.png)
-![Screenshot](https://github.com/danielashrafk/video-transcription/blob/main/client/src/images/video6.png)
-![Screenshot](https://github.com/danielashrafk/video-transcription/blob/main/client/src/images/video7.png)
-![Screenshot](https://github.com/danielashrafk/video-transcription/blob/main/client/src/images/video8.png)
-![Screenshot](https://github.com/danielashrafk/video-transcription/blob/main/client/src/images/video9.png)
-![Screenshot](https://github.com/danielashrafk/video-transcription/blob/main/client/src/images/video1.png)
-![Screenshot](https://github.com/danielashrafk/video-transcription/blob/main/client/src/images/video2.png)
-![Screenshot](https://github.com/danielashrafk/video-transcription/blob/main/client/src/images/video3.png)
-![Screenshot](https://github.com/danielashrafk/video-transcription/blob/main/client/src/images/video4.png)
+![Screenshot](https://github.com/danielashrafk/video-transcription-app/blob/main/client/src/images/video5.png)
+![Screenshot](https://github.com/danielashrafk/video-transcription-app/blob/main/client/src/images/video6.png)
+![Screenshot](https://github.com/danielashrafk/video-transcription-app/blob/main/client/src/images/video7.png)
+![Screenshot](https://github.com/danielashrafk/video-transcription-app/blob/main/client/src/images/video8.png)
+![Screenshot](https://github.com/danielashrafk/video-transcription-app/blob/main/client/src/images/video9.png)
+![Screenshot](https://github.com/danielashrafk/video-transcription-app/blob/main/client/src/images/video1.png)
+![Screenshot](https://github.com/danielashrafk/video-transcription-app/blob/main/client/src/images/video2.png)
+![Screenshot](https://github.com/danielashrafk/video-transcription-app/blob/main/client/src/images/video3.png)
+![Screenshot](https://github.com/danielashrafk/video-transcription-app/blob/main/client/src/images/video4.png)
