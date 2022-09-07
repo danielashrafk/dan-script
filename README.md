@@ -1,4 +1,4 @@
-# Video Transcription
+# Dan-Script
 
 # What is Video Transctiption: 
 Video Transcription is a free and easy tool used to transcribe and index MP4 & YouTube videos. Just upload an MP4 video or paste a YouTube link and search for any word you would like to search for in that video. You will find an exact timing for the word and a link that will take you directly to that part of the video.
